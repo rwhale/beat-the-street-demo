@@ -2,7 +2,7 @@
 
 A personal quantitative trading project — building one breakout strategy, testing it honestly across the years it was tuned on and a year it had never seen, and now proving it (or disproving it) in a live paper-trading run.
 
-**Live page:** _add your GitHub Pages link here once it's switched on_
+**Live page:** https://rwhale.github.io/beat-the-street/
 
 ## What the page shows
 
